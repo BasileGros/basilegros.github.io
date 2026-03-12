@@ -1,6 +1,8 @@
 I am a PhD student at the [Verimag](https://www-verimag.imag.fr/) in Grenoble under [Pierre Corbineau](https://www-verimag.imag.fr/~corbinea/) 
 and [Jean-François Monin](https://www-verimag.imag.fr/~monin/).
 
+You can see my CV [here](https://basilegros.github.io/CV.pdf)
+
 ## Research
 My PhD thesis is on Proxy-based Small Inversions, a technique used in Rocq to perform inversion without equality constraints, well suited to dependent programming.
 You can find a plugin based on this work [here](https://github.com/BasileGros/proxy-based-small-inversions).
