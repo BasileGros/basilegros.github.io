@@ -8,7 +8,8 @@ My PhD thesis is on Proxy-based Small Inversions, a technique used in Rocq to pe
 You can find a plugin based on this work [here](https://github.com/BasileGros/proxy-based-small-inversions).
 
 ## Publications
-- Pierre Corbineau, Basile Gros, Jean-François Monin. Proxy-based small inversions and their automation. Preprint TYPES 2026. [HAL](https://hal.science/hal-05469909)
+<!-- - Pierre Corbineau, Basile Gros, Jean-François Monin. Proxy-based small inversions and their automation. Preprint TYPES 2026. [HAL](https://hal.science/hal-05469909) -->
+- Pierre Corbineau, Basile Gros, Jean-François Monin. A Minimalist Approach to Trustworthy Programming with Precise Types using Small Inversions. LPAR 2026, Erika Abraham; Nikolaj Bjorner; Michael Rawson, Oct 2026, Greece. [Conference Website](https://easychair.org/smart-program/LPAR-26/index.html)
 - Pierre Corbineau, Basile Gros, Jean-François Monin. Certified Programming with Dependent Types Made Simple with Proxy-based Small Inversions. The Rocqshop 2025, Pierre Boutry; Loïc Pujet, Sep 2025, Reykjavik, Iceland. [HAL](https://hal.science/hal-05481472v1)
 - Basile Gros, Pierre Corbineau, and Jean-François Monin. Proxy-based small inversions: a case study in metacoq programming. In Adrien Guatto and Marie Kerjean, editors, JFLA 2025 - 36es Journées Francophones des Langages Applicatifs, Jan 2025. [HAL](https://hal.science/hal-04859450v1)
 
